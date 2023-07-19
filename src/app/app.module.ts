@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-//commented to implement lazy loading
+//commented to implement lazy loading............
 // import {CompanyModule}  from './company/company.module';
 // import { PersonModule } from './person/person.module';
 @NgModule({
